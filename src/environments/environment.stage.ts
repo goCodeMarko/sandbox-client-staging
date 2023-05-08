@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    SERVER_URL: 'https://tender-pink-antelope.cyclic.app/api/'
+    SERVER_URL: 'https://heroku-sandbox-server-staging.herokuapp.com/api/'
 };
